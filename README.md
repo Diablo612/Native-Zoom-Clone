@@ -29,3 +29,6 @@ Clone the git repository both main and master and create and env file (.env in E
 -     EXPO_PUBLIC_API_URL= Url of NexJS hosted
 -     API_GETSTREAM_PUBLISHABLE_KEY= same as EXPO_PUBLIC_GET_STREAM_API_KEY
 -     API_GETSTREAM_SECRET_KEY=
+And also install the dependencies:
+-      npm install
+-      yarn install
