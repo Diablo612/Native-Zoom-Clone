@@ -6,7 +6,7 @@ Features:
 - 👉 Implementing Real-time Seamless Audio and Video calling Functionality using GetStream.io
 - 👉 Build real iOS & Android apps that can be launched on the Apple App Store and Google Play Store!
 - 👉 Secure User Authentication and Sessions with Clerk Integration
-- 👉 Useing EAS to create development builds with Expo leverage=ing iOS/Android Native dependancies
+- 👉 Using EAS to create development builds with Expo leveraging iOS/Android Native dependancies
 - 👉 Building a Secure Backend with Next.js for Handling Server Requests
 - 👉 TypeScript to reduce the overall number of Bugs and Errors
 - 👉 Group Calling with Dynamic Participant Management and Layouts
